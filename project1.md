@@ -12,4 +12,6 @@
 
 [Mark down](https://www.markdownguide.org/cheat-sheet/)
 
-![ubuntu-server](./images/ubuntu-server.jpg)
+## http://<35.177.53.132>:80 was added to my browser
+
+![ubuntu-webpage](./images/ubuntu-webpage.jpg)
